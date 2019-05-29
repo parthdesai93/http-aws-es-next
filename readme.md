@@ -1,6 +1,6 @@
 ## AWS-ES Connector helper
 
-'http-aws-es' package didn't work the updated elastcisearch client.
+'http-aws-es' package didn't work with the updated elastcisearch client.
 
 This package assumes that you are using 'aws-sdk'.
 
